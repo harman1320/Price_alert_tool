@@ -1,0 +1,14 @@
+{
+  "name": "wissen-price-alert",
+  "version": "1.0.0",
+  "description": "Command-line price alert tool for the Wissen campus assessment",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/cli.js prices.csv rules.json",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
