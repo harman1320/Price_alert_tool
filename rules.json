@@ -9,9 +9,8 @@
   {
     "id": "r2",
     "instrument": "TCS",
-    "type": "ma_cross",
-    "short": 2,
-    "long": 3,
-    "direction": "above"
+    "type": "change",
+    "direction": "down",
+    "amount": 15
   }
 ]
